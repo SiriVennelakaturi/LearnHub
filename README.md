@@ -1,4 +1,4 @@
-## 📚 LearnHub: Your Gateway to Smarter Learning
+## 📚 LearnHub: Your Center for Skill Enhancement
 
 ## 📖 Project Overview
 

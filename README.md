@@ -81,7 +81,8 @@ LearnHub/
 - User Login & Registration  
 - Interactive Dashboard  
 - Powered by Vite  
-- Custom CSS Styling  
+- Custom CSS Styling
+- Certificate Generation upon course completion
 
 ## 👩‍💻 Author
 
